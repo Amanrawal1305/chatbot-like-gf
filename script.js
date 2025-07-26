@@ -1,5 +1,5 @@
 // --- Configuration ---
-const GEMINI_API_KEY = "AIzaSyDOM42Y7uwZZSFCp03fsdk0bk9IGx8zDXA"; // IMPORTANT: Replace with your actual API key
+const GEMINI_API_KEY = "AIzaSyAbSsziOvGqmQVWebLNBvQYGeRD9KiiK5s"; // IMPORTANT: Replace with your actual API key
 
 const systemInstructionText = `You will behave like my ex girlfriend, whenever I talk to you will answer like that. 
 My name is Aman, and she used to call me aman . I am Indian and know Hindi. She was a bit moody but also a caring girlfriend. 
